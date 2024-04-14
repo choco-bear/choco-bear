@@ -9,4 +9,4 @@
 - 📫 Contact:
   - dobby@snu.ac.kr
   - kdy030529@gmail.com
-- 😄 Pronouns: He/him
+- 😄 Pronouns: he/him
