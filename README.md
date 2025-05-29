@@ -6,5 +6,4 @@
 - 🌱 I’m currently learning Computer Science/Engineering & Mathmatics
 - 📫 Contact:
   - dobby@snu.ac.kr
-  - kdy030529@gmail.com
 - 😄 Pronouns: he/him
